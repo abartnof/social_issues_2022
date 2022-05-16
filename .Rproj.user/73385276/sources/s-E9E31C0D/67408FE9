@@ -1,0 +1,28 @@
+{
+    "id": "67408FE9",
+    "path": "~/Documents/projects/public/conviction_spectrum/scripts/elt.R",
+    "project_path": "scripts/elt.R",
+    "type": "r_source",
+    "hash": "1808096440",
+    "contents": "",
+    "dirty": false,
+    "created": 1652212714575.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "33,66",
+        "scrollLine": "0",
+        "marks": "<:29,2\n>:33,65"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1652302043,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1652302043510,
+    "read_only": false,
+    "read_only_alternatives": []
+}
