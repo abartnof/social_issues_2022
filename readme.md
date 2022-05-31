@@ -21,7 +21,7 @@ Consequently, Jane Doe's perspective will not be represented in our government.)
 ## Methods
 Here I analyze data from a recent [American National Election Studies](https://electionstudies.org/about-us/) public research dataset in order to answer these questions.
 
-##Results
+## Results
 ### 1. Abstract beliefs in a two-Party System: are two-parties sufficient?
 The ANES survey contains several questions which ask respondents to indicate, on a scale from 1 to 7, where they stand on the following abstract issues:
 - Liberal/Conservative
@@ -96,8 +96,8 @@ Having said this, Republicans are certainly outliers; the other voters are much 
 
 # Conclusion
 The findings here are two-fold:
-- 1. If we did not have the cultural baggage that compels us to think of people in terms of the Liberal/Conservative, Democratic/Republican spectrum, we'd probably do better by thinking in terms of a few dimensions.
+- If we did not have the cultural baggage that compels us to think of people in terms of the Liberal/Conservative, Democratic/Republican spectrum, we'd probably do better by thinking in terms of a few dimensions.
 Given these seven items on the public opinion poll, we did very well with four dimensions.
 The single dimension that we overwhelmingly use IRL is easier to visualize than a multi-dimensional model, but it is also less accurate.
-- 2. If we just look at respondents' stances on key cultural issues, we see that people who exist outside the two-party system tend to be closer to Dems than to Republicans.
+- If we just look at respondents' stances on key cultural issues, we see that people who exist outside the two-party system tend to be closer to Dems than to Republicans.
 This suggests that, _were the election based exclusively on candidates' positions on these issues_, then Republican candidates would have a more difficult time picking up undecided/misc voters than would Democratic candidates.
